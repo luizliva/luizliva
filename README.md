@@ -1,5 +1,7 @@
 ### Oi, Eu sou o Luiz! 👋
 
+##
+
 - 👨‍💻 Atualmente estou estudando Python.
 - 👊 Busco aprender e evoluir cada vez mais!
 
