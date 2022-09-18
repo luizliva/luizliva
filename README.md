@@ -3,7 +3,6 @@
 ##
 
 - 👨‍💻 Atualmente estou estudando Python.
-- 👊 Busco aprender e evoluir cada vez mais!
 
 <div>
   <a href="https://github.com/luizliva">
